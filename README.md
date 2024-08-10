@@ -1,2 +1,2 @@
-# C-
+# C++
 My path learning C++
